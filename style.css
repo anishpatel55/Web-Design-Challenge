@@ -1,0 +1,26 @@
+.nav {
+    margin-right: 0px;
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 0px;
+    align-self:right;
+    color:grey
+}
+.nav li {
+    margin-right: 0px;
+}
+
+h1{
+    font-size: 35px;
+    padding: 20px;
+    color: rgb(4, 160, 160);
+}
+h2{
+    font-size: 5px;
+    padding: 10px;
+}
+
+p{
+    font-size: 15px;
+}
+
